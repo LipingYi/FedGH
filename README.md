@@ -30,7 +30,7 @@ If you find FedGH to be useful in your own research, please consider citing the 
                Zhuan Shi and
                Han Yu},
   title     = {{FedGH: Heterogeneous Federated Learning with Generalized Global Header}},
-  booktitle = {AM Multimedia},
+  booktitle = {ACM Multimedia},
   year      = {2023},
 }
 ```
